@@ -5,8 +5,7 @@
 <p>Passionate about Intelligent Systems</p>
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=AI+%26+Data-Driven+Full-Stack+Developer;Master%27s+Student+in+Data+Analytics+%26+AI;Passionate+about+Intelligent+Systems" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=2000&pause=500&color=4F46E5&center=true&vCenter=true&width=600&lines=Passionate;AI+Developer;Love+Maths;Data+Science;Machine+Learning;Full+Stack" alt="Typing SVG" />
 </div>
 
 <div align="center">
