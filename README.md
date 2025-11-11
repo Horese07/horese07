@@ -220,7 +220,7 @@ An intelligent social media monitoring system that uses NLP and LSTM neural netw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-houcine-el-achguar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Horese07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achguarhoucine@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elhoucine-elachguar.me)
 
 </div>
 
