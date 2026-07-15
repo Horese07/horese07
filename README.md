@@ -17,7 +17,7 @@ Building Knowledge-Driven Digital Twins for Intelligent Territories
 
 <p>
 
-I'm a <strong>Research Engineer at UM6P-CITINNOV</strong> with a Master's degree in
+I'm a <strong>Research Engineer </strong> with a Master's degree in
 <strong>Data Analytics & Artificial Intelligence</strong>.
 
 My research explores how Artificial Intelligence can move beyond prediction toward
