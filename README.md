@@ -83,7 +83,7 @@ to build Digital Twins capable of supporting informed human decision-making.
 <h3>🤝 Let's Connect</h3>
 
 <a href="https://elhoucine-elachguar.me">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/elhoucine-elachguar">💼 LinkedIn</a> •
+<a href="www.linkedin.com/in/elhoucine-elachguar-27b878230">💼 LinkedIn</a> •
 <a href="mailto:achguarhoucine@gmail.com">📧 Email</a>
 
 <br><br>
