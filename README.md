@@ -2,7 +2,7 @@
 
 <h1>🌍 GeoAI Research Engineer</h1>
 
-<h3>Research Engineer @ UM6P-CITINNOV</h3>
+<h3>Research Engineer</h3>
 
 <p>
 Building Knowledge-Driven Digital Twins for Intelligent Territories
