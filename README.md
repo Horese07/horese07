@@ -33,40 +33,6 @@ knowledge representation, and semantic reasoning into explainable AI systems
 for Smart Territories.
 
 </p>
-<h2>🧠 Research Interests</h2>
-
-<p>
-
-🌍 GeoAI & Spatial Intelligence <br>
-🏙️ Territorial Intelligence & Smart Cities <br>
-🗺️ Spatial Knowledge Graphs <br>
-📍 Geo-RAG <br>
-🤖 Agentic AI <br>
-🌐 Digital Twins <br>
-💡 Explainable AI <br>
-📊 Decision Support Systems <br>
-
-</p>
-<h2>🚀 Current Work</h2>
-
-<ul>
-
-<li>Research Engineer @ UM6P-CITINNOV</li>
-
-<li>Developing GeoSmart Dakhla — AI-Powered Geoportal for Territorial Intelligence</li>
-
-<li>Designing Spatial Knowledge Graphs</li>
-
-<li>Building Geo-RAG architectures</li>
-
-<li>Developing Agentic AI workflows with LangGraph</li>
-
-<li>Integrating GIS, satellite imagery, planning documents and spatial databases</li>
-
-<li>Building explainable AI systems for territorial decision-making</li>
-
-</ul>
-<h2>⚙️ Technical Expertise</h2>
 
 <h3>🌍 GeoAI</h3>
 
